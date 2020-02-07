@@ -1,0 +1,57 @@
+Semi-online begins..
+Seat no. 0
+passenger1: 1, 4
+passenger6: 4, 5
+Seat no. 1
+passenger2: 2, 5
+Seat no. 2
+passenger3: 2, 3
+passenger0: 3, 4
+Passagerkilometer: 9
+Passengers who did not get a seat (error):
+Empty - no error
+Endeligt antal passagerer: 5
+
+Brute force begins..
+Seat nr: 0
+passenger1: 1, 4
+passenger6: 4, 5
+Passagerkilometer på sæde: 4
+
+Seat nr: 1
+passenger2: 2, 5
+Passagerkilometer på sæde: 3
+
+Seat nr: 2
+passenger5: 2, 5
+Passagerkilometer på sæde: 3
+
+Passagerkilometer i alt: 10
+Følgende passagerer kom ikke med:
+passenger0: 3, 4
+passenger3: 2, 3
+passenger4: 1, 3
+passenger7: 2, 5
+Endeligt antal passagerer: 4
+
+Method 1 begins..
+Seat nr: 0
+passenger4: 1, 3
+passenger0: 3, 4
+passenger6: 4, 5
+Passagerkilometer på sæde: 4
+
+Seat nr: 1
+passenger7: 2, 5
+Passagerkilometer på sæde: 3
+
+Seat nr: 2
+passenger5: 2, 5
+Passagerkilometer på sæde: 3
+
+Passagerkilometer i alt: 10
+Følgende passagerer kom ikke med:
+passenger1: 1, 4
+passenger2: 2, 5
+passenger3: 2, 3
+Endeligt antal passagerer: 5

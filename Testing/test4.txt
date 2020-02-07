@@ -1,0 +1,188 @@
+Kapacitet: 50, stationer: 20, requests: 500
+Max km gennemsnit: 2871.842842842843 (1000)
+BRUTE FORCE:
+Average: 0.0
+
+DYNAMIC:
+Average: 971.9039039039039
+Seat 0:
+Passenger 233: 0, 20
+Seat 1:
+Passenger 229: 0, 20
+Seat 2:
+Passenger 2: 0, 20
+Seat 3:
+Passenger 8: 2, 20
+Passenger 336: 0, 2
+Seat 4:
+Passenger 26: 15, 20
+Passenger 223: 0, 15
+Seat 5:
+Passenger 27: 3, 20
+Passenger 455: 0, 3
+Seat 6:
+Passenger 101: 9, 20
+Passenger 392: 0, 9
+Seat 7:
+Passenger 102: 10, 20
+Passenger 379: 0, 10
+Seat 8:
+Passenger 162: 13, 20
+Passenger 90: 0, 13
+Seat 9:
+Passenger 213: 9, 20
+Passenger 331: 0, 9
+Seat 10:
+Passenger 252: 9, 20
+Passenger 160: 0, 9
+Seat 11:
+Passenger 270: 3, 20
+Passenger 54: 0, 3
+Seat 12:
+Passenger 372: 1, 20
+Passenger 380: 0, 1
+Seat 13:
+Passenger 443: 11, 20
+Passenger 200: 0, 11
+Seat 14:
+Passenger 3: 17, 20
+Passenger 106: 1, 17
+Passenger 85: 0, 1
+Seat 15:
+Passenger 20: 7, 20
+Passenger 81: 6, 7
+Passenger 55: 0, 6
+Seat 16:
+Passenger 25: 8, 20
+Passenger 108: 1, 8
+Seat 17:
+Passenger 29: 16, 20
+Passenger 156: 1, 16
+Seat 18:
+Passenger 37: 16, 20
+Passenger 390: 1, 16
+Seat 19:
+Passenger 62: 18, 20
+Passenger 234: 1, 18
+Seat 20:
+Passenger 163: 14, 20
+Passenger 210: 1, 14
+Seat 21:
+Passenger 217: 12, 20
+Passenger 22: 1, 12
+Seat 22:
+Passenger 439: 3, 20
+Passenger 368: 1, 3
+Seat 23:
+Passenger 444: 2, 20
+Passenger 57: 1, 2
+Seat 24:
+Passenger 466: 2, 20
+Passenger 198: 1, 2
+Seat 25:
+Passenger 34: 19, 20
+Passenger 128: 5, 19
+Passenger 104: 1, 5
+Seat 26:
+Passenger 48: 19, 20
+Passenger 157: 9, 19
+Passenger 38: 1, 9
+Seat 27:
+Passenger 69: 18, 20
+Passenger 132: 6, 18
+Passenger 95: 1, 6
+Seat 28:
+Passenger 71: 19, 20
+Passenger 391: 3, 19
+Passenger 482: 1, 3
+Seat 29:
+Passenger 80: 8, 20
+Passenger 168: 5, 8
+Passenger 113: 1, 5
+Seat 30:
+Passenger 76: 19, 20
+Passenger 441: 2, 19
+Seat 31:
+Passenger 115: 15, 20
+Passenger 9: 2, 15
+Seat 32:
+Passenger 123: 8, 20
+Passenger 12: 2, 8
+Seat 33:
+Passenger 137: 16, 20
+Passenger 176: 2, 16
+Seat 34:
+Passenger 138: 16, 20
+Passenger 221: 2, 16
+Seat 35:
+Passenger 150: 15, 20
+Passenger 371: 2, 15
+Seat 36:
+Passenger 204: 13, 20
+Passenger 158: 2, 13
+Seat 37:
+Passenger 206: 13, 20
+Passenger 197: 2, 13
+Seat 38:
+Passenger 207: 16, 20
+Passenger 427: 2, 16
+Seat 39:
+Passenger 228: 7, 20
+Passenger 166: 2, 7
+Seat 40:
+Passenger 256: 12, 20
+Passenger 74: 2, 12
+Seat 41:
+Passenger 475: 17, 20
+Passenger 154: 2, 17
+Seat 42:
+Passenger 118: 19, 20
+Passenger 89: 8, 19
+Passenger 243: 2, 8
+Seat 43:
+Passenger 119: 19, 20
+Passenger 227: 6, 19
+Passenger 87: 2, 6
+Seat 44:
+Passenger 124: 18, 20
+Passenger 222: 4, 18
+Passenger 463: 2, 4
+Seat 45:
+Passenger 180: 14, 20
+Passenger 78: 5, 14
+Passenger 244: 2, 5
+Seat 46:
+Passenger 214: 18, 20
+Passenger 366: 3, 18
+Passenger 6: 2, 3
+Seat 47:
+Passenger 239: 14, 20
+Passenger 394: 6, 14
+Passenger 188: 2, 6
+Seat 48:
+Passenger 261: 13, 20
+Passenger 91: 6, 13
+Passenger 500: 2, 6
+Seat 49:
+Passenger 220: 18, 20
+Passenger 393: 3, 18
+
+FORWARD-BACKWARD:
+Average: 971.8968968968969
+
+ONLINE OFFLINE:
+Average: 897.925925925926
+
+ONLINE:
+Average: 896.1291291291292
+
+BRUTE FORCE
+Minimum: 0 - Nedre kvartil: 0 - Median: 0 - Øvre kvartil: 0 - Maksimum: 0
+DYNAMIC
+Minimum: 945 - Nedre kvartil: 967 - Median: 973 - Øvre kvartil: 977 - Maksimum: 993
+FORWARD-BACKWARD
+Minimum: 945 - Nedre kvartil: 967 - Median: 973 - Øvre kvartil: 977 - Maksimum: 993
+ONLINE OFFLINE
+Minimum: 814 - Nedre kvartil: 886 - Median: 899 - Øvre kvartil: 911 - Maksimum: 949
+ONLINE
+Minimum: 810 - Nedre kvartil: 885 - Median: 897 - Øvre kvartil: 909 - Maksimum: 942

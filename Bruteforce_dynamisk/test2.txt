@@ -1,0 +1,1602 @@
+Seat nr: 0
+Passager: passenger60: 0, 14
+Passagerkilometer på sæde: 14
+
+Seat nr: 1
+Passager: passenger561: 0, 14
+Passagerkilometer på sæde: 14
+
+Seat nr: 2
+Passager: passenger940: 0, 14
+Passagerkilometer på sæde: 14
+
+Seat nr: 3
+Passager: passenger341: 1, 14
+Passager: passenger986: 0, 1
+Passagerkilometer på sæde: 14
+
+Seat nr: 4
+Passager: passenger40: 3, 14
+Passager: passenger951: 0, 3
+Passagerkilometer på sæde: 14
+
+Seat nr: 5
+Passager: passenger417: 1, 14
+Passager: passenger937: 0, 1
+Passagerkilometer på sæde: 14
+
+Seat nr: 6
+Passager: passenger39: 9, 14
+Passager: passenger936: 0, 9
+Passagerkilometer på sæde: 14
+
+Seat nr: 7
+Passager: passenger16: 10, 14
+Passager: passenger930: 0, 10
+Passagerkilometer på sæde: 14
+
+Seat nr: 8
+Passager: passenger104: 3, 14
+Passager: passenger929: 0, 3
+Passagerkilometer på sæde: 14
+
+Seat nr: 9
+Passager: passenger312: 4, 14
+Passager: passenger893: 0, 4
+Passagerkilometer på sæde: 14
+
+Seat nr: 10
+Passager: passenger7: 7, 14
+Passager: passenger868: 0, 7
+Passagerkilometer på sæde: 14
+
+Seat nr: 11
+Passager: passenger20: 12, 14
+Passager: passenger854: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 12
+Passager: passenger19: 10, 14
+Passager: passenger820: 0, 10
+Passagerkilometer på sæde: 14
+
+Seat nr: 13
+Passager: passenger28: 12, 14
+Passager: passenger816: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 14
+Passager: passenger542: 1, 14
+Passager: passenger813: 0, 1
+Passagerkilometer på sæde: 14
+
+Seat nr: 15
+Passager: passenger397: 7, 14
+Passager: passenger793: 0, 7
+Passagerkilometer på sæde: 14
+
+Seat nr: 16
+Passager: passenger36: 12, 14
+Passager: passenger780: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 17
+Passager: passenger440: 7, 14
+Passager: passenger776: 0, 7
+Passagerkilometer på sæde: 14
+
+Seat nr: 18
+Passager: passenger145: 3, 14
+Passager: passenger746: 0, 3
+Passagerkilometer på sæde: 14
+
+Seat nr: 19
+Passager: passenger720: 0, 13
+Passagerkilometer på sæde: 13
+
+Seat nr: 20
+Passager: passenger452: 4, 14
+Passager: passenger717: 0, 4
+Passagerkilometer på sæde: 14
+
+Seat nr: 21
+Passager: passenger37: 12, 14
+Passager: passenger702: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 22
+Passager: passenger96: 8, 14
+Passager: passenger695: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 23
+Passager: passenger74: 6, 14
+Passager: passenger687: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 24
+Passager: passenger34: 5, 14
+Passager: passenger679: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 25
+Passager: passenger313: 6, 14
+Passager: passenger665: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 26
+Passager: passenger576: 4, 14
+Passager: passenger637: 0, 4
+Passagerkilometer på sæde: 14
+
+Seat nr: 27
+Passager: passenger56: 12, 14
+Passager: passenger621: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 28
+Passager: passenger85: 5, 14
+Passager: passenger618: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 29
+Passager: passenger617: 0, 13
+Passagerkilometer på sæde: 13
+
+Seat nr: 30
+Passager: passenger134: 8, 14
+Passager: passenger611: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 31
+Passager: passenger582: 1, 14
+Passager: passenger588: 0, 1
+Passagerkilometer på sæde: 14
+
+Seat nr: 32
+Passager: passenger307: 2, 14
+Passager: passenger587: 0, 2
+Passagerkilometer på sæde: 14
+
+Seat nr: 33
+Passager: passenger120: 10, 14
+Passager: passenger580: 0, 10
+Passagerkilometer på sæde: 14
+
+Seat nr: 34
+Passager: passenger162: 10, 14
+Passager: passenger571: 0, 10
+Passagerkilometer på sæde: 14
+
+Seat nr: 35
+Passager: passenger521: 2, 14
+Passager: passenger568: 0, 2
+Passagerkilometer på sæde: 14
+
+Seat nr: 36
+Passager: passenger778: 2, 14
+Passager: passenger554: 0, 2
+Passagerkilometer på sæde: 14
+
+Seat nr: 37
+Passager: passenger127: 5, 14
+Passager: passenger456: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 38
+Passager: passenger973: 2, 14
+Passager: passenger442: 0, 2
+Passagerkilometer på sæde: 14
+
+Seat nr: 39
+Passager: passenger423: 0, 13
+Passagerkilometer på sæde: 13
+
+Seat nr: 40
+Passager: passenger404: 5, 14
+Passager: passenger403: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 41
+Passager: passenger625: 1, 14
+Passager: passenger384: 0, 1
+Passagerkilometer på sæde: 14
+
+Seat nr: 42
+Passager: passenger257: 8, 14
+Passager: passenger370: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 43
+Passager: passenger321: 6, 14
+Passager: passenger353: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 44
+Passager: passenger437: 3, 14
+Passager: passenger315: 0, 3
+Passagerkilometer på sæde: 14
+
+Seat nr: 45
+Passager: passenger723: 4, 14
+Passager: passenger306: 0, 4
+Passagerkilometer på sæde: 14
+
+Seat nr: 46
+Passager: passenger960: 5, 14
+Passager: passenger299: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 47
+Passager: passenger291: 8, 14
+Passager: passenger272: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 48
+Passager: passenger90: 12, 14
+Passager: passenger262: 0, 12
+Passagerkilometer på sæde: 14
+
+Seat nr: 49
+Passager: passenger482: 3, 14
+Passager: passenger258: 0, 3
+Passagerkilometer på sæde: 14
+
+Seat nr: 50
+Passager: passenger494: 6, 14
+Passager: passenger220: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 51
+Passager: passenger336: 8, 14
+Passager: passenger218: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 52
+Passager: passenger190: 10, 14
+Passager: passenger200: 0, 10
+Passagerkilometer på sæde: 14
+
+Seat nr: 53
+Passager: passenger416: 8, 14
+Passager: passenger179: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 54
+Passager: passenger25: 11, 14
+Passager: passenger169: 0, 11
+Passagerkilometer på sæde: 14
+
+Seat nr: 55
+Passager: passenger94: 12, 14
+Passager: passenger988: 2, 12
+Passager: passenger153: 0, 2
+Passagerkilometer på sæde: 14
+
+Seat nr: 56
+Passager: passenger555: 6, 14
+Passager: passenger136: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 57
+Passager: passenger206: 10, 14
+Passager: passenger999: 5, 10
+Passager: passenger114: 0, 5
+Passagerkilometer på sæde: 14
+
+Seat nr: 58
+Passager: passenger100: 0, 13
+Passagerkilometer på sæde: 13
+
+Seat nr: 59
+Passager: passenger590: 6, 14
+Passager: passenger84: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 60
+Passager: passenger418: 8, 14
+Passager: passenger72: 0, 8
+Passagerkilometer på sæde: 14
+
+Seat nr: 61
+Passager: passenger654: 6, 14
+Passager: passenger68: 0, 6
+Passagerkilometer på sæde: 14
+
+Seat nr: 62
+Passagerkilometer på sæde: 0
+
+Seat nr: 63
+Passagerkilometer på sæde: 0
+
+Seat nr: 64
+Passagerkilometer på sæde: 0
+
+Seat nr: 65
+Passagerkilometer på sæde: 0
+
+Seat nr: 66
+Passagerkilometer på sæde: 0
+
+Seat nr: 67
+Passagerkilometer på sæde: 0
+
+Seat nr: 68
+Passagerkilometer på sæde: 0
+
+Seat nr: 69
+Passagerkilometer på sæde: 0
+
+Seat nr: 70
+Passagerkilometer på sæde: 0
+
+Seat nr: 71
+Passagerkilometer på sæde: 0
+
+Seat nr: 72
+Passagerkilometer på sæde: 0
+
+Seat nr: 73
+Passagerkilometer på sæde: 0
+
+Seat nr: 74
+Passagerkilometer på sæde: 0
+
+Seat nr: 75
+Passagerkilometer på sæde: 0
+
+Seat nr: 76
+Passagerkilometer på sæde: 0
+
+Seat nr: 77
+Passagerkilometer på sæde: 0
+
+Seat nr: 78
+Passagerkilometer på sæde: 0
+
+Seat nr: 79
+Passagerkilometer på sæde: 0
+
+Seat nr: 80
+Passagerkilometer på sæde: 0
+
+Seat nr: 81
+Passagerkilometer på sæde: 0
+
+Seat nr: 82
+Passagerkilometer på sæde: 0
+
+Seat nr: 83
+Passagerkilometer på sæde: 0
+
+Seat nr: 84
+Passagerkilometer på sæde: 0
+
+Seat nr: 85
+Passagerkilometer på sæde: 0
+
+Seat nr: 86
+Passagerkilometer på sæde: 0
+
+Seat nr: 87
+Passagerkilometer på sæde: 0
+
+Seat nr: 88
+Passagerkilometer på sæde: 0
+
+Seat nr: 89
+Passagerkilometer på sæde: 0
+
+Seat nr: 90
+Passagerkilometer på sæde: 0
+
+Seat nr: 91
+Passagerkilometer på sæde: 0
+
+Seat nr: 92
+Passagerkilometer på sæde: 0
+
+Seat nr: 93
+Passagerkilometer på sæde: 0
+
+Seat nr: 94
+Passagerkilometer på sæde: 0
+
+Seat nr: 95
+Passagerkilometer på sæde: 0
+
+Seat nr: 96
+Passagerkilometer på sæde: 0
+
+Seat nr: 97
+Passagerkilometer på sæde: 0
+
+Seat nr: 98
+Passagerkilometer på sæde: 0
+
+Seat nr: 99
+Passagerkilometer på sæde: 0
+
+Seat nr: 100
+Passagerkilometer på sæde: 0
+
+Seat nr: 101
+Passagerkilometer på sæde: 0
+
+Seat nr: 102
+Passagerkilometer på sæde: 0
+
+Seat nr: 103
+Passagerkilometer på sæde: 0
+
+Seat nr: 104
+Passagerkilometer på sæde: 0
+
+Seat nr: 105
+Passagerkilometer på sæde: 0
+
+Seat nr: 106
+Passagerkilometer på sæde: 0
+
+Seat nr: 107
+Passagerkilometer på sæde: 0
+
+Seat nr: 108
+Passagerkilometer på sæde: 0
+
+Seat nr: 109
+Passagerkilometer på sæde: 0
+
+Seat nr: 110
+Passagerkilometer på sæde: 0
+
+Seat nr: 111
+Passagerkilometer på sæde: 0
+
+Seat nr: 112
+Passagerkilometer på sæde: 0
+
+Seat nr: 113
+Passagerkilometer på sæde: 0
+
+Seat nr: 114
+Passagerkilometer på sæde: 0
+
+Seat nr: 115
+Passagerkilometer på sæde: 0
+
+Seat nr: 116
+Passagerkilometer på sæde: 0
+
+Seat nr: 117
+Passagerkilometer på sæde: 0
+
+Seat nr: 118
+Passagerkilometer på sæde: 0
+
+Seat nr: 119
+Passagerkilometer på sæde: 0
+
+Seat nr: 120
+Passagerkilometer på sæde: 0
+
+Seat nr: 121
+Passagerkilometer på sæde: 0
+
+Seat nr: 122
+Passagerkilometer på sæde: 0
+
+Seat nr: 123
+Passagerkilometer på sæde: 0
+
+Seat nr: 124
+Passagerkilometer på sæde: 0
+
+Seat nr: 125
+Passagerkilometer på sæde: 0
+
+Seat nr: 126
+Passagerkilometer på sæde: 0
+
+Seat nr: 127
+Passagerkilometer på sæde: 0
+
+Seat nr: 128
+Passagerkilometer på sæde: 0
+
+Seat nr: 129
+Passagerkilometer på sæde: 0
+
+Seat nr: 130
+Passagerkilometer på sæde: 0
+
+Seat nr: 131
+Passagerkilometer på sæde: 0
+
+Seat nr: 132
+Passagerkilometer på sæde: 0
+
+Seat nr: 133
+Passagerkilometer på sæde: 0
+
+Seat nr: 134
+Passagerkilometer på sæde: 0
+
+Seat nr: 135
+Passagerkilometer på sæde: 0
+
+Seat nr: 136
+Passagerkilometer på sæde: 0
+
+Seat nr: 137
+Passagerkilometer på sæde: 0
+
+Seat nr: 138
+Passagerkilometer på sæde: 0
+
+Seat nr: 139
+Passagerkilometer på sæde: 0
+
+Seat nr: 140
+Passagerkilometer på sæde: 0
+
+Seat nr: 141
+Passagerkilometer på sæde: 0
+
+Seat nr: 142
+Passagerkilometer på sæde: 0
+
+Seat nr: 143
+Passagerkilometer på sæde: 0
+
+Seat nr: 144
+Passagerkilometer på sæde: 0
+
+Seat nr: 145
+Passagerkilometer på sæde: 0
+
+Seat nr: 146
+Passagerkilometer på sæde: 0
+
+Seat nr: 147
+Passagerkilometer på sæde: 0
+
+Seat nr: 148
+Passagerkilometer på sæde: 0
+
+Seat nr: 149
+Passagerkilometer på sæde: 0
+
+Seat nr: 150
+Passagerkilometer på sæde: 0
+
+Seat nr: 151
+Passagerkilometer på sæde: 0
+
+Seat nr: 152
+Passagerkilometer på sæde: 0
+
+Seat nr: 153
+Passagerkilometer på sæde: 0
+
+Seat nr: 154
+Passagerkilometer på sæde: 0
+
+Seat nr: 155
+Passagerkilometer på sæde: 0
+
+Seat nr: 156
+Passagerkilometer på sæde: 0
+
+Seat nr: 157
+Passagerkilometer på sæde: 0
+
+Seat nr: 158
+Passagerkilometer på sæde: 0
+
+Seat nr: 159
+Passagerkilometer på sæde: 0
+
+Seat nr: 160
+Passagerkilometer på sæde: 0
+
+Seat nr: 161
+Passagerkilometer på sæde: 0
+
+Seat nr: 162
+Passagerkilometer på sæde: 0
+
+Seat nr: 163
+Passagerkilometer på sæde: 0
+
+Seat nr: 164
+Passagerkilometer på sæde: 0
+
+Seat nr: 165
+Passagerkilometer på sæde: 0
+
+Seat nr: 166
+Passagerkilometer på sæde: 0
+
+Seat nr: 167
+Passagerkilometer på sæde: 0
+
+Seat nr: 168
+Passagerkilometer på sæde: 0
+
+Seat nr: 169
+Passagerkilometer på sæde: 0
+
+Seat nr: 170
+Passagerkilometer på sæde: 0
+
+Seat nr: 171
+Passagerkilometer på sæde: 0
+
+Seat nr: 172
+Passagerkilometer på sæde: 0
+
+Seat nr: 173
+Passagerkilometer på sæde: 0
+
+Seat nr: 174
+Passagerkilometer på sæde: 0
+
+Seat nr: 175
+Passagerkilometer på sæde: 0
+
+Seat nr: 176
+Passagerkilometer på sæde: 0
+
+Seat nr: 177
+Passagerkilometer på sæde: 0
+
+Seat nr: 178
+Passagerkilometer på sæde: 0
+
+Seat nr: 179
+Passagerkilometer på sæde: 0
+
+Seat nr: 180
+Passagerkilometer på sæde: 0
+
+Seat nr: 181
+Passagerkilometer på sæde: 0
+
+Seat nr: 182
+Passagerkilometer på sæde: 0
+
+Seat nr: 183
+Passagerkilometer på sæde: 0
+
+Seat nr: 184
+Passagerkilometer på sæde: 0
+
+Seat nr: 185
+Passagerkilometer på sæde: 0
+
+Seat nr: 186
+Passagerkilometer på sæde: 0
+
+Seat nr: 187
+Passagerkilometer på sæde: 0
+
+Seat nr: 188
+Passagerkilometer på sæde: 0
+
+Seat nr: 189
+Passagerkilometer på sæde: 0
+
+Seat nr: 190
+Passagerkilometer på sæde: 0
+
+Seat nr: 191
+Passagerkilometer på sæde: 0
+
+Seat nr: 192
+Passagerkilometer på sæde: 0
+
+Seat nr: 193
+Passagerkilometer på sæde: 0
+
+Seat nr: 194
+Passagerkilometer på sæde: 0
+
+Seat nr: 195
+Passagerkilometer på sæde: 0
+
+Seat nr: 196
+Passagerkilometer på sæde: 0
+
+Seat nr: 197
+Passagerkilometer på sæde: 0
+
+Seat nr: 198
+Passagerkilometer på sæde: 0
+
+Seat nr: 199
+Passagerkilometer på sæde: 0
+
+Passagerkilometer i alt: 864
+Følgende passagerer kom ikke med:
+passenger0: 4, 6
+passenger1: 2, 5
+passenger2: 1, 2
+passenger3: 11, 12
+passenger4: 9, 13
+passenger5: 11, 12
+passenger6: 11, 13
+passenger8: 4, 11
+passenger9: 0, 13
+passenger10: 1, 8
+passenger11: 13, 14
+passenger12: 12, 13
+passenger13: 3, 5
+passenger14: 1, 12
+passenger15: 9, 11
+passenger17: 6, 12
+passenger18: 5, 7
+passenger21: 3, 7
+passenger22: 12, 13
+passenger23: 11, 13
+passenger24: 9, 13
+passenger26: 13, 14
+passenger27: 1, 10
+passenger29: 10, 12
+passenger30: 7, 8
+passenger31: 1, 13
+passenger32: 4, 11
+passenger33: 6, 9
+passenger35: 6, 11
+passenger38: 9, 11
+passenger41: 9, 11
+passenger42: 2, 6
+passenger43: 2, 5
+passenger44: 7, 12
+passenger45: 11, 12
+passenger46: 6, 7
+passenger47: 4, 9
+passenger48: 7, 12
+passenger49: 7, 13
+passenger50: 9, 14
+passenger51: 6, 12
+passenger52: 4, 11
+passenger53: 1, 12
+passenger54: 10, 11
+passenger55: 3, 13
+passenger57: 8, 12
+passenger58: 10, 11
+passenger59: 7, 11
+passenger61: 3, 10
+passenger62: 6, 11
+passenger63: 5, 10
+passenger64: 5, 12
+passenger65: 2, 3
+passenger66: 3, 10
+passenger67: 13, 14
+passenger69: 13, 14
+passenger70: 6, 11
+passenger71: 3, 11
+passenger73: 10, 13
+passenger75: 5, 11
+passenger76: 6, 9
+passenger77: 3, 9
+passenger78: 11, 13
+passenger79: 4, 9
+passenger80: 1, 8
+passenger81: 11, 12
+passenger82: 11, 14
+passenger83: 6, 8
+passenger86: 3, 10
+passenger87: 8, 10
+passenger88: 6, 11
+passenger89: 6, 13
+passenger91: 11, 14
+passenger92: 4, 7
+passenger93: 13, 14
+passenger95: 2, 11
+passenger97: 4, 8
+passenger98: 11, 14
+passenger99: 5, 11
+passenger101: 4, 12
+passenger102: 12, 13
+passenger103: 12, 14
+passenger105: 6, 11
+passenger106: 8, 10
+passenger107: 1, 4
+passenger108: 2, 11
+passenger109: 7, 11
+passenger110: 7, 12
+passenger111: 8, 13
+passenger112: 13, 14
+passenger113: 8, 9
+passenger115: 8, 10
+passenger116: 7, 12
+passenger117: 7, 11
+passenger118: 3, 11
+passenger119: 12, 13
+passenger121: 2, 9
+passenger122: 11, 14
+passenger123: 6, 8
+passenger124: 9, 10
+passenger125: 7, 12
+passenger126: 4, 6
+passenger128: 1, 2
+passenger129: 12, 14
+passenger130: 9, 12
+passenger131: 5, 10
+passenger132: 11, 12
+passenger133: 5, 7
+passenger135: 7, 11
+passenger137: 12, 13
+passenger138: 2, 12
+passenger139: 8, 10
+passenger140: 10, 13
+passenger141: 6, 10
+passenger142: 1, 7
+passenger143: 7, 9
+passenger144: 11, 13
+passenger146: 3, 9
+passenger147: 12, 13
+passenger148: 12, 14
+passenger149: 5, 7
+passenger150: 3, 9
+passenger151: 6, 8
+passenger152: 9, 13
+passenger154: 8, 12
+passenger155: 6, 7
+passenger156: 8, 13
+passenger157: 3, 11
+passenger158: 1, 2
+passenger159: 2, 9
+passenger160: 2, 4
+passenger161: 9, 11
+passenger163: 4, 5
+passenger164: 10, 12
+passenger165: 12, 14
+passenger166: 6, 7
+passenger167: 1, 13
+passenger168: 5, 8
+passenger170: 13, 14
+passenger171: 6, 7
+passenger172: 4, 6
+passenger173: 8, 10
+passenger174: 8, 9
+passenger175: 4, 8
+passenger176: 10, 12
+passenger177: 4, 7
+passenger178: 9, 12
+passenger180: 7, 12
+passenger181: 4, 13
+passenger182: 3, 11
+passenger183: 4, 9
+passenger184: 3, 13
+passenger185: 3, 12
+passenger186: 1, 2
+passenger187: 12, 14
+passenger188: 12, 14
+passenger189: 2, 4
+passenger191: 3, 12
+passenger192: 8, 11
+passenger193: 5, 10
+passenger194: 5, 11
+passenger195: 2, 13
+passenger196: 11, 12
+passenger197: 13, 14
+passenger198: 11, 14
+passenger199: 2, 3
+passenger201: 2, 8
+passenger202: 1, 12
+passenger203: 4, 12
+passenger204: 13, 14
+passenger205: 13, 14
+passenger207: 9, 13
+passenger208: 2, 5
+passenger209: 9, 10
+passenger210: 4, 5
+passenger211: 3, 7
+passenger212: 4, 5
+passenger213: 12, 14
+passenger214: 4, 11
+passenger215: 1, 5
+passenger216: 3, 10
+passenger217: 13, 14
+passenger219: 10, 12
+passenger221: 2, 4
+passenger222: 12, 13
+passenger223: 11, 14
+passenger224: 9, 11
+passenger225: 13, 14
+passenger226: 11, 13
+passenger227: 2, 3
+passenger228: 10, 11
+passenger229: 5, 7
+passenger230: 2, 13
+passenger231: 11, 13
+passenger232: 1, 7
+passenger233: 12, 14
+passenger234: 3, 13
+passenger235: 5, 12
+passenger236: 3, 10
+passenger237: 6, 10
+passenger238: 11, 13
+passenger239: 10, 14
+passenger240: 4, 5
+passenger241: 9, 10
+passenger242: 10, 14
+passenger243: 9, 13
+passenger244: 2, 6
+passenger245: 13, 14
+passenger246: 9, 11
+passenger247: 6, 10
+passenger248: 10, 13
+passenger249: 8, 9
+passenger250: 3, 7
+passenger251: 5, 13
+passenger252: 4, 7
+passenger253: 8, 10
+passenger254: 8, 12
+passenger255: 1, 13
+passenger256: 5, 8
+passenger259: 6, 10
+passenger260: 12, 14
+passenger261: 11, 13
+passenger263: 11, 14
+passenger264: 9, 13
+passenger265: 2, 7
+passenger266: 11, 13
+passenger267: 1, 3
+passenger268: 10, 14
+passenger269: 10, 11
+passenger270: 4, 12
+passenger271: 4, 5
+passenger273: 5, 7
+passenger274: 11, 13
+passenger275: 3, 11
+passenger276: 10, 13
+passenger277: 2, 11
+passenger278: 8, 9
+passenger279: 12, 13
+passenger280: 2, 10
+passenger281: 10, 12
+passenger282: 10, 13
+passenger283: 5, 12
+passenger284: 1, 3
+passenger285: 9, 11
+passenger286: 4, 5
+passenger287: 2, 9
+passenger288: 8, 11
+passenger289: 13, 14
+passenger290: 2, 4
+passenger292: 10, 11
+passenger293: 8, 9
+passenger294: 6, 13
+passenger295: 9, 14
+passenger296: 5, 11
+passenger297: 10, 13
+passenger298: 11, 14
+passenger300: 1, 11
+passenger301: 13, 14
+passenger302: 9, 11
+passenger303: 11, 12
+passenger304: 1, 13
+passenger305: 7, 8
+passenger308: 12, 13
+passenger309: 11, 13
+passenger310: 12, 13
+passenger311: 4, 8
+passenger314: 2, 4
+passenger316: 11, 12
+passenger317: 4, 8
+passenger318: 3, 8
+passenger319: 2, 5
+passenger320: 2, 3
+passenger322: 5, 11
+passenger323: 6, 7
+passenger324: 1, 13
+passenger325: 5, 10
+passenger326: 7, 12
+passenger327: 3, 11
+passenger328: 6, 9
+passenger329: 13, 14
+passenger330: 5, 11
+passenger331: 3, 4
+passenger332: 13, 14
+passenger333: 13, 14
+passenger334: 8, 13
+passenger335: 13, 14
+passenger337: 13, 14
+passenger338: 9, 13
+passenger339: 13, 14
+passenger340: 9, 11
+passenger342: 9, 12
+passenger343: 11, 12
+passenger344: 11, 14
+passenger345: 7, 9
+passenger346: 5, 9
+passenger347: 1, 8
+passenger348: 1, 10
+passenger349: 9, 14
+passenger350: 5, 8
+passenger351: 8, 9
+passenger352: 2, 11
+passenger354: 5, 11
+passenger355: 10, 12
+passenger356: 11, 12
+passenger357: 13, 14
+passenger358: 7, 12
+passenger359: 3, 6
+passenger360: 8, 11
+passenger361: 3, 13
+passenger362: 10, 12
+passenger363: 1, 5
+passenger364: 7, 9
+passenger365: 7, 8
+passenger366: 1, 11
+passenger367: 1, 12
+passenger368: 9, 14
+passenger369: 4, 13
+passenger371: 6, 8
+passenger372: 7, 12
+passenger373: 5, 6
+passenger374: 13, 14
+passenger375: 4, 10
+passenger376: 11, 14
+passenger377: 6, 11
+passenger378: 2, 6
+passenger379: 7, 9
+passenger380: 2, 4
+passenger381: 2, 3
+passenger382: 10, 12
+passenger383: 5, 8
+passenger385: 13, 14
+passenger386: 2, 8
+passenger387: 9, 14
+passenger388: 6, 10
+passenger389: 8, 9
+passenger390: 11, 12
+passenger391: 13, 14
+passenger392: 10, 14
+passenger393: 3, 13
+passenger394: 6, 12
+passenger395: 11, 12
+passenger396: 7, 12
+passenger398: 13, 14
+passenger399: 5, 11
+passenger400: 13, 14
+passenger401: 13, 14
+passenger402: 3, 10
+passenger405: 1, 5
+passenger406: 7, 8
+passenger407: 12, 14
+passenger408: 8, 13
+passenger409: 7, 12
+passenger410: 2, 5
+passenger411: 11, 14
+passenger412: 9, 11
+passenger413: 6, 9
+passenger414: 5, 9
+passenger415: 13, 14
+passenger419: 9, 11
+passenger420: 13, 14
+passenger421: 12, 13
+passenger422: 4, 6
+passenger424: 7, 11
+passenger425: 6, 12
+passenger426: 6, 13
+passenger427: 4, 9
+passenger428: 3, 7
+passenger429: 12, 14
+passenger430: 6, 12
+passenger431: 11, 12
+passenger432: 8, 13
+passenger433: 5, 12
+passenger434: 12, 14
+passenger435: 13, 14
+passenger436: 1, 7
+passenger438: 3, 13
+passenger439: 13, 14
+passenger441: 6, 12
+passenger443: 1, 3
+passenger444: 1, 10
+passenger445: 12, 14
+passenger446: 11, 14
+passenger447: 8, 9
+passenger448: 4, 12
+passenger449: 1, 6
+passenger450: 1, 10
+passenger451: 11, 12
+passenger453: 7, 11
+passenger454: 7, 12
+passenger455: 13, 14
+passenger457: 4, 5
+passenger458: 4, 13
+passenger459: 10, 13
+passenger460: 11, 13
+passenger461: 3, 13
+passenger462: 12, 14
+passenger463: 5, 8
+passenger464: 6, 9
+passenger465: 9, 14
+passenger466: 11, 12
+passenger467: 4, 5
+passenger468: 2, 12
+passenger469: 2, 12
+passenger470: 12, 14
+passenger471: 8, 9
+passenger472: 3, 6
+passenger473: 11, 12
+passenger474: 5, 6
+passenger475: 5, 8
+passenger476: 11, 14
+passenger477: 6, 9
+passenger478: 11, 14
+passenger479: 4, 12
+passenger480: 9, 11
+passenger481: 8, 11
+passenger483: 12, 14
+passenger484: 5, 7
+passenger485: 8, 12
+passenger486: 9, 13
+passenger487: 9, 12
+passenger488: 6, 10
+passenger489: 4, 12
+passenger490: 5, 8
+passenger491: 13, 14
+passenger492: 6, 12
+passenger493: 5, 7
+passenger495: 7, 12
+passenger496: 6, 13
+passenger497: 9, 14
+passenger498: 7, 14
+passenger499: 5, 9
+passenger500: 2, 9
+passenger501: 1, 6
+passenger502: 12, 13
+passenger503: 1, 12
+passenger504: 9, 14
+passenger505: 12, 13
+passenger506: 8, 14
+passenger507: 6, 13
+passenger508: 5, 9
+passenger509: 13, 14
+passenger510: 11, 12
+passenger511: 6, 13
+passenger512: 10, 13
+passenger513: 13, 14
+passenger514: 9, 12
+passenger515: 9, 14
+passenger516: 13, 14
+passenger517: 8, 10
+passenger518: 12, 13
+passenger519: 6, 12
+passenger520: 8, 12
+passenger522: 11, 13
+passenger523: 9, 14
+passenger524: 5, 6
+passenger525: 1, 8
+passenger526: 9, 11
+passenger527: 12, 14
+passenger528: 3, 6
+passenger529: 3, 7
+passenger530: 2, 5
+passenger531: 4, 5
+passenger532: 13, 14
+passenger533: 13, 14
+passenger534: 12, 14
+passenger535: 2, 12
+passenger536: 7, 8
+passenger537: 4, 6
+passenger538: 1, 5
+passenger539: 8, 11
+passenger540: 4, 7
+passenger541: 3, 7
+passenger543: 3, 12
+passenger544: 1, 11
+passenger545: 4, 13
+passenger546: 4, 8
+passenger547: 9, 14
+passenger548: 4, 13
+passenger549: 13, 14
+passenger550: 3, 9
+passenger551: 7, 10
+passenger552: 13, 14
+passenger553: 1, 10
+passenger556: 3, 11
+passenger557: 10, 13
+passenger558: 3, 6
+passenger559: 10, 13
+passenger560: 13, 14
+passenger562: 10, 13
+passenger563: 1, 7
+passenger564: 8, 12
+passenger565: 10, 13
+passenger566: 3, 12
+passenger567: 11, 13
+passenger569: 7, 10
+passenger570: 3, 8
+passenger572: 11, 12
+passenger573: 5, 13
+passenger574: 11, 13
+passenger575: 7, 11
+passenger577: 8, 13
+passenger578: 8, 10
+passenger579: 1, 7
+passenger581: 9, 11
+passenger583: 6, 8
+passenger584: 9, 14
+passenger585: 7, 8
+passenger586: 6, 7
+passenger589: 12, 14
+passenger591: 13, 14
+passenger592: 13, 14
+passenger593: 3, 8
+passenger594: 2, 10
+passenger595: 10, 14
+passenger596: 9, 12
+passenger597: 7, 11
+passenger598: 1, 9
+passenger599: 9, 13
+passenger600: 7, 8
+passenger601: 11, 13
+passenger602: 1, 4
+passenger603: 8, 13
+passenger604: 4, 12
+passenger605: 9, 11
+passenger606: 1, 6
+passenger607: 6, 11
+passenger608: 7, 11
+passenger609: 9, 12
+passenger610: 5, 12
+passenger612: 4, 11
+passenger613: 12, 13
+passenger614: 2, 4
+passenger615: 2, 5
+passenger616: 2, 6
+passenger619: 7, 13
+passenger620: 5, 12
+passenger622: 4, 6
+passenger623: 5, 10
+passenger624: 13, 14
+passenger626: 9, 11
+passenger627: 6, 13
+passenger628: 7, 10
+passenger629: 12, 14
+passenger630: 8, 9
+passenger631: 4, 6
+passenger632: 1, 12
+passenger633: 7, 9
+passenger634: 9, 13
+passenger635: 7, 14
+passenger636: 1, 8
+passenger638: 6, 10
+passenger639: 2, 4
+passenger640: 5, 8
+passenger641: 12, 14
+passenger642: 5, 10
+passenger643: 5, 6
+passenger644: 13, 14
+passenger645: 11, 14
+passenger646: 11, 12
+passenger647: 4, 13
+passenger648: 8, 11
+passenger649: 9, 10
+passenger650: 2, 10
+passenger651: 2, 7
+passenger652: 11, 12
+passenger653: 3, 4
+passenger655: 10, 13
+passenger656: 8, 10
+passenger657: 8, 11
+passenger658: 11, 13
+passenger659: 12, 13
+passenger660: 3, 14
+passenger661: 9, 13
+passenger662: 12, 14
+passenger663: 12, 13
+passenger664: 5, 13
+passenger666: 2, 11
+passenger667: 3, 4
+passenger668: 5, 10
+passenger669: 11, 13
+passenger670: 8, 9
+passenger671: 3, 13
+passenger672: 3, 7
+passenger673: 9, 14
+passenger674: 3, 11
+passenger675: 7, 11
+passenger676: 11, 13
+passenger677: 1, 2
+passenger678: 11, 13
+passenger680: 8, 10
+passenger681: 9, 14
+passenger682: 1, 4
+passenger683: 3, 14
+passenger684: 7, 14
+passenger685: 12, 13
+passenger686: 9, 14
+passenger688: 3, 9
+passenger689: 2, 11
+passenger690: 7, 12
+passenger691: 12, 14
+passenger692: 10, 14
+passenger693: 6, 10
+passenger694: 4, 12
+passenger696: 1, 8
+passenger697: 4, 6
+passenger698: 12, 13
+passenger699: 6, 7
+passenger700: 1, 5
+passenger701: 4, 11
+passenger703: 9, 12
+passenger704: 6, 7
+passenger705: 1, 9
+passenger706: 8, 10
+passenger707: 11, 12
+passenger708: 9, 10
+passenger709: 7, 11
+passenger710: 12, 13
+passenger711: 11, 14
+passenger712: 4, 10
+passenger713: 5, 10
+passenger714: 9, 13
+passenger715: 2, 9
+passenger716: 13, 14
+passenger718: 9, 14
+passenger719: 6, 11
+passenger721: 4, 10
+passenger722: 6, 10
+passenger724: 3, 9
+passenger725: 8, 11
+passenger726: 11, 14
+passenger727: 4, 8
+passenger728: 8, 9
+passenger729: 8, 14
+passenger730: 11, 14
+passenger731: 8, 10
+passenger732: 9, 11
+passenger733: 11, 14
+passenger734: 9, 12
+passenger735: 2, 6
+passenger736: 4, 11
+passenger737: 9, 10
+passenger738: 4, 10
+passenger739: 6, 13
+passenger740: 8, 14
+passenger741: 13, 14
+passenger742: 12, 14
+passenger743: 9, 12
+passenger744: 4, 10
+passenger745: 8, 10
+passenger747: 12, 13
+passenger748: 11, 13
+passenger749: 5, 8
+passenger750: 8, 14
+passenger751: 12, 13
+passenger752: 8, 10
+passenger753: 4, 11
+passenger754: 1, 7
+passenger755: 7, 12
+passenger756: 1, 7
+passenger757: 6, 13
+passenger758: 11, 14
+passenger759: 11, 13
+passenger760: 11, 14
+passenger761: 13, 14
+passenger762: 3, 4
+passenger763: 10, 13
+passenger764: 7, 8
+passenger765: 7, 12
+passenger766: 7, 10
+passenger767: 1, 9
+passenger768: 6, 12
+passenger769: 1, 3
+passenger770: 10, 12
+passenger771: 12, 13
+passenger772: 11, 12
+passenger773: 7, 14
+passenger774: 7, 10
+passenger775: 3, 10
+passenger777: 4, 5
+passenger779: 11, 12
+passenger781: 11, 14
+passenger782: 13, 14
+passenger783: 6, 8
+passenger784: 7, 13
+passenger785: 11, 13
+passenger786: 9, 11
+passenger787: 2, 8
+passenger788: 3, 10
+passenger789: 4, 9
+passenger790: 4, 6
+passenger791: 1, 9
+passenger792: 8, 10
+passenger794: 6, 14
+passenger795: 11, 13
+passenger796: 11, 13
+passenger797: 2, 11
+passenger798: 7, 12
+passenger799: 1, 10
+passenger800: 11, 12
+passenger801: 9, 11
+passenger802: 7, 14
+passenger803: 9, 13
+passenger804: 4, 10
+passenger805: 11, 14
+passenger806: 1, 12
+passenger807: 5, 10
+passenger808: 9, 13
+passenger809: 7, 8
+passenger810: 9, 12
+passenger811: 1, 11
+passenger812: 4, 14
+passenger814: 12, 13
+passenger815: 8, 14
+passenger817: 6, 10
+passenger818: 11, 14
+passenger819: 8, 10
+passenger821: 12, 13
+passenger822: 5, 6
+passenger823: 8, 13
+passenger824: 11, 13
+passenger825: 9, 10
+passenger826: 5, 10
+passenger827: 11, 13
+passenger828: 1, 11
+passenger829: 8, 12
+passenger830: 9, 13
+passenger831: 6, 14
+passenger832: 10, 13
+passenger833: 1, 10
+passenger834: 3, 10
+passenger835: 2, 11
+passenger836: 8, 11
+passenger837: 13, 14
+passenger838: 2, 3
+passenger839: 7, 13
+passenger840: 8, 10
+passenger841: 8, 14
+passenger842: 6, 10
+passenger843: 11, 12
+passenger844: 12, 14
+passenger845: 3, 12
+passenger846: 3, 10
+passenger847: 3, 7
+passenger848: 12, 14
+passenger849: 8, 9
+passenger850: 2, 7
+passenger851: 11, 13
+passenger852: 9, 13
+passenger853: 2, 6
+passenger855: 4, 12
+passenger856: 4, 8
+passenger857: 8, 12
+passenger858: 4, 11
+passenger859: 13, 14
+passenger860: 12, 13
+passenger861: 7, 9
+passenger862: 5, 11
+passenger863: 4, 9
+passenger864: 5, 8
+passenger865: 2, 7
+passenger866: 2, 12
+passenger867: 13, 14
+passenger869: 11, 13
+passenger870: 13, 14
+passenger871: 8, 14
+passenger872: 6, 8
+passenger873: 4, 14
+passenger874: 1, 7
+passenger875: 12, 14
+passenger876: 12, 13
+passenger877: 11, 13
+passenger878: 10, 14
+passenger879: 10, 11
+passenger880: 7, 9
+passenger881: 1, 13
+passenger882: 13, 14
+passenger883: 1, 6
+passenger884: 3, 14
+passenger885: 12, 13
+passenger886: 7, 9
+passenger887: 7, 9
+passenger888: 5, 11
+passenger889: 2, 13
+passenger890: 6, 12
+passenger891: 10, 11
+passenger892: 8, 14
+passenger894: 8, 13
+passenger895: 8, 11
+passenger896: 10, 11
+passenger897: 2, 6
+passenger898: 8, 11
+passenger899: 8, 10
+passenger900: 12, 14
+passenger901: 2, 9
+passenger902: 6, 13
+passenger903: 11, 12
+passenger904: 1, 3
+passenger905: 1, 13
+passenger906: 13, 14
+passenger907: 8, 9
+passenger908: 7, 13
+passenger909: 12, 13
+passenger910: 3, 7
+passenger911: 5, 6
+passenger912: 6, 13
+passenger913: 9, 12
+passenger914: 12, 13
+passenger915: 4, 11
+passenger916: 11, 13
+passenger917: 3, 11
+passenger918: 6, 13
+passenger919: 7, 10
+passenger920: 9, 14
+passenger921: 9, 12
+passenger922: 7, 8
+passenger923: 3, 4
+passenger924: 9, 12
+passenger925: 8, 13
+passenger926: 11, 13
+passenger927: 5, 8
+passenger928: 10, 14
+passenger931: 6, 12
+passenger932: 10, 14
+passenger933: 11, 12
+passenger934: 9, 11
+passenger935: 11, 13
+passenger938: 5, 11
+passenger939: 5, 6
+passenger941: 1, 13
+passenger942: 9, 11
+passenger943: 2, 5
+passenger944: 2, 4
+passenger945: 10, 14
+passenger946: 6, 11
+passenger947: 13, 14
+passenger948: 11, 13
+passenger949: 8, 13
+passenger950: 10, 11
+passenger952: 5, 10
+passenger953: 7, 8
+passenger954: 10, 11
+passenger955: 1, 11
+passenger956: 11, 14
+passenger957: 3, 6
+passenger958: 4, 13
+passenger959: 2, 7
+passenger961: 6, 7
+passenger962: 2, 6
+passenger963: 1, 11
+passenger964: 2, 13
+passenger965: 13, 14
+passenger966: 7, 14
+passenger967: 13, 14
+passenger968: 5, 9
+passenger969: 4, 5
+passenger970: 9, 10
+passenger971: 5, 13
+passenger972: 2, 8
+passenger974: 6, 9
+passenger975: 7, 11
+passenger976: 4, 11
+passenger977: 1, 12
+passenger978: 13, 14
+passenger979: 11, 13
+passenger980: 12, 14
+passenger981: 2, 4
+passenger982: 3, 12
+passenger983: 2, 4
+passenger984: 9, 13
+passenger985: 5, 13
+passenger987: 12, 13
+passenger989: 6, 10
+passenger990: 6, 10
+passenger991: 6, 10
+passenger992: 1, 2
+passenger993: 11, 12
+passenger994: 4, 8
+passenger995: 1, 10
+passenger996: 7, 13
+passenger997: 10, 12
+passenger998: 3, 7

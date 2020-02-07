@@ -1,0 +1,167 @@
+Semi-online begins..
+Seat no. 0
+passenger4: 0, 3
+passenger3: 4, 5
+passenger8: 5, 6
+passenger9: 6, 7
+passenger10: 7, 10
+Seat no. 1
+passenger13: 0, 10
+Seat no. 2
+passenger16: 0, 9
+passenger7: 9, 10
+Seat no. 3
+passenger5: 1, 8
+passenger2: 8, 10
+Seat no. 4
+passenger6: 1, 5
+passenger15: 5, 8
+passenger24: 9, 10
+Seat no. 5
+passenger0: 2, 6
+passenger11: 6, 9
+Seat no. 6
+passenger1: 2, 10
+Seat no. 7
+passenger12: 2, 6
+passenger21: 6, 8
+Seat no. 8
+passenger14: 2, 6
+passenger18: 7, 10
+Seat no. 9
+passenger22: 2, 4
+passenger17: 5, 10
+Passagerkilometer: 81
+Passengers who did not get a seat (error):
+Empty - no error
+Endeligt antal passagerer: 22
+
+Brute force begins..
+Seat nr: 0
+passenger13: 0, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 1
+passenger27: 0, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 2
+passenger4: 0, 3
+passenger29: 3, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 3
+passenger16: 0, 9
+passenger7: 9, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 4
+passenger20: 0, 7
+passenger10: 7, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 5
+passenger5: 1, 8
+passenger2: 8, 10
+Passagerkilometer på sæde: 9
+
+Seat nr: 6
+passenger6: 1, 5
+passenger17: 5, 10
+Passagerkilometer på sæde: 9
+
+Seat nr: 7
+passenger1: 2, 10
+Passagerkilometer på sæde: 8
+
+Seat nr: 8
+passenger0: 2, 6
+passenger9: 6, 7
+passenger18: 7, 10
+Passagerkilometer på sæde: 8
+
+Seat nr: 9
+passenger12: 2, 6
+passenger11: 6, 9
+passenger24: 9, 10
+Passagerkilometer på sæde: 8
+
+Passagerkilometer i alt: 92
+Følgende passagerer kom ikke med:
+passenger3: 4, 5
+passenger8: 5, 6
+passenger14: 2, 6
+passenger15: 5, 8
+passenger19: 4, 7
+passenger21: 6, 8
+passenger22: 2, 4
+passenger23: 4, 6
+passenger25: 5, 9
+passenger26: 7, 8
+passenger28: 5, 9
+Endeligt antal passagerer: 19
+
+Method 1 begins..
+Seat nr: 0
+passenger27: 0, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 1
+passenger13: 0, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 2
+passenger29: 3, 10
+passenger4: 0, 3
+Passagerkilometer på sæde: 10
+
+Seat nr: 3
+passenger20: 0, 7
+passenger26: 7, 8
+passenger2: 8, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 4
+passenger16: 0, 9
+passenger24: 9, 10
+Passagerkilometer på sæde: 10
+
+Seat nr: 5
+passenger6: 1, 5
+passenger28: 5, 9
+passenger7: 9, 10
+Passagerkilometer på sæde: 9
+
+Seat nr: 6
+passenger1: 2, 10
+Passagerkilometer på sæde: 8
+
+Seat nr: 7
+passenger18: 7, 10
+passenger19: 4, 7
+passenger22: 2, 4
+Passagerkilometer på sæde: 8
+
+Seat nr: 8
+passenger5: 1, 8
+Passagerkilometer på sæde: 7
+
+Seat nr: 9
+passenger14: 2, 6
+passenger21: 6, 8
+Passagerkilometer på sæde: 6
+
+Passagerkilometer i alt: 88
+Følgende passagerer kom ikke med:
+passenger0: 2, 6
+passenger3: 4, 5
+passenger8: 5, 6
+passenger9: 6, 7
+passenger10: 7, 10
+passenger11: 6, 9
+passenger12: 2, 6
+passenger15: 5, 8
+passenger17: 5, 10
+passenger23: 4, 6
+passenger25: 5, 9
+Endeligt antal passagerer: 19

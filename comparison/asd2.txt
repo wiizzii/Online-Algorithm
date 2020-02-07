@@ -1,0 +1,109 @@
+Semi-online begins..
+Seat no. 0
+passenger11: 0, 2
+passenger1: 2, 5
+Seat no. 1
+passenger17: 0, 2
+passenger2: 2, 4
+passenger5: 4, 5
+Seat no. 2
+passenger18: 0, 2
+passenger3: 2, 3
+passenger4: 3, 4
+Seat no. 3
+passenger0: 1, 5
+Seat no. 4
+passenger6: 1, 5
+Seat no. 5
+passenger19: 1, 2
+passenger7: 2, 5
+Passagerkilometer: 26
+Passengers who did not get a seat (error):
+Empty - no error
+Endeligt antal passagerer: 12
+
+Brute force begins..
+Seat nr: 0
+passenger13: 0, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 1
+passenger11: 0, 2
+passenger1: 2, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 2
+passenger12: 0, 4
+passenger5: 4, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 3
+passenger17: 0, 2
+passenger7: 2, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 4
+passenger18: 0, 2
+passenger3: 2, 3
+passenger8: 3, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 5
+passenger16: 0, 4
+Passagerkilometer på sæde: 4
+
+Passagerkilometer i alt: 29
+Følgende passagerer kom ikke med:
+passenger0: 1, 5
+passenger2: 2, 4
+passenger4: 3, 4
+passenger6: 1, 5
+passenger9: 3, 4
+passenger10: 2, 3
+passenger14: 3, 4
+passenger15: 1, 4
+passenger19: 1, 2
+Endeligt antal passagerer: 11
+
+Method 1 begins..
+Seat nr: 0
+passenger13: 0, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 1
+passenger18: 0, 2
+passenger10: 2, 3
+passenger14: 3, 4
+passenger5: 4, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 2
+passenger17: 0, 2
+passenger7: 2, 5
+Passagerkilometer på sæde: 5
+
+Seat nr: 3
+passenger16: 0, 4
+Passagerkilometer på sæde: 4
+
+Seat nr: 4
+passenger12: 0, 4
+Passagerkilometer på sæde: 4
+
+Seat nr: 5
+passenger6: 1, 5
+Passagerkilometer på sæde: 4
+
+Passagerkilometer i alt: 27
+Følgende passagerer kom ikke med:
+passenger0: 1, 5
+passenger1: 2, 5
+passenger2: 2, 4
+passenger3: 2, 3
+passenger4: 3, 4
+passenger8: 3, 5
+passenger9: 3, 4
+passenger11: 0, 2
+passenger15: 1, 4
+passenger19: 1, 2
+Endeligt antal passagerer: 10

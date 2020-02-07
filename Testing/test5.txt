@@ -1,0 +1,67 @@
+Kapacitet: 10, stationer: 20, requests: 30
+Max km gennemsnit: 170.92392392392392 (200)
+BRUTE FORCE:
+Average: 147.45345345345345
+
+DYNAMIC:
+Average: 147.45645645645646
+Seat 0:
+Passenger 6: 3, 20
+Seat 1:
+Passenger 2: 19, 20
+Passenger 10: 18, 19
+Passenger 29: 12, 18
+Passenger 15: 3, 12
+Seat 2:
+Passenger 8: 16, 20
+Passenger 20: 15, 16
+Passenger 1: 12, 15
+Passenger 3: 8, 12
+Passenger 14: 3, 8
+Seat 3:
+Passenger 16: 17, 20
+Passenger 11: 13, 17
+Passenger 27: 12, 13
+Passenger 9: 6, 11
+Seat 4:
+Passenger 17: 9, 20
+Seat 5:
+Passenger 5: 19, 20
+Passenger 12: 18, 19
+Passenger 30: 17, 18
+Passenger 23: 10, 17
+Passenger 19: 9, 10
+Seat 6:
+Passenger 7: 19, 20
+Passenger 28: 18, 19
+Passenger 26: 15, 18
+Passenger 4: 13, 15
+Passenger 18: 10, 11
+Passenger 22: 9, 10
+Seat 7:
+Passenger 13: 14, 19
+Seat 8:
+Passenger 21: 15, 16
+Passenger 24: 14, 15
+Seat 9:
+Passenger 25: 14, 15
+
+FORWARD-BACKWARD:
+Average: 147.35135135135135
+
+ONLINE OFFLINE:
+Average: 131.4004004004004
+
+ONLINE:
+Average: 129.2842842842843
+
+BRUTE FORCE
+Minimum: 103 - Nedre kvartil: 139 - Median: 148 - Øvre kvartil: 156 - Maksimum: 180
+DYNAMIC
+Minimum: 103 - Nedre kvartil: 139 - Median: 148 - Øvre kvartil: 156 - Maksimum: 180
+FORWARD-BACKWARD
+Minimum: 103 - Nedre kvartil: 139 - Median: 148 - Øvre kvartil: 156 - Maksimum: 180
+ONLINE OFFLINE
+Minimum: 87 - Nedre kvartil: 123 - Median: 131 - Øvre kvartil: 141 - Maksimum: 169
+ONLINE
+Minimum: 87 - Nedre kvartil: 120 - Median: 129 - Øvre kvartil: 138 - Maksimum: 165

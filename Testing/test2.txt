@@ -1,0 +1,417 @@
+Kapacitet: 100, stationer: 20, requests: 300
+Max km gennemsnit: 1723.3533533533534 (2000)
+BRUTE FORCE:
+Average: 0.0
+
+DYNAMIC:
+Average: 1588.4124124124123
+Seat 0:
+Passenger 29: 0, 20
+Seat 1:
+Passenger 12: 16, 20
+Passenger 32: 0, 16
+Seat 2:
+Passenger 92: 9, 20
+Passenger 241: 0, 9
+Seat 3:
+Passenger 135: 3, 20
+Passenger 176: 0, 3
+Seat 4:
+Passenger 163: 8, 20
+Passenger 64: 0, 8
+Seat 5:
+Passenger 3: 7, 20
+Passenger 50: 3, 7
+Passenger 72: 0, 3
+Seat 6:
+Passenger 20: 19, 20
+Passenger 83: 10, 19
+Passenger 44: 0, 10
+Seat 7:
+Passenger 30: 18, 20
+Passenger 37: 4, 18
+Passenger 236: 0, 4
+Seat 8:
+Passenger 52: 17, 20
+Passenger 93: 6, 17
+Passenger 246: 0, 6
+Seat 9:
+Passenger 80: 19, 20
+Passenger 242: 4, 19
+Passenger 147: 0, 4
+Seat 10:
+Passenger 103: 14, 20
+Passenger 84: 4, 14
+Passenger 15: 0, 4
+Seat 11:
+Passenger 57: 18, 20
+Passenger 70: 1, 18
+Seat 12:
+Passenger 67: 15, 20
+Passenger 230: 1, 15
+Seat 13:
+Passenger 107: 13, 20
+Passenger 11: 1, 13
+Seat 14:
+Passenger 130: 18, 20
+Passenger 39: 11, 18
+Passenger 245: 1, 11
+Seat 15:
+Passenger 131: 16, 20
+Passenger 234: 6, 16
+Passenger 111: 1, 6
+Seat 16:
+Passenger 136: 17, 20
+Passenger 191: 8, 17
+Passenger 295: 1, 8
+Seat 17:
+Passenger 150: 18, 20
+Passenger 74: 7, 18
+Passenger 265: 1, 7
+Seat 18:
+Passenger 153: 14, 20
+Passenger 40: 3, 14
+Passenger 127: 1, 3
+Seat 19:
+Passenger 160: 15, 20
+Passenger 142: 7, 15
+Passenger 269: 1, 7
+Seat 20:
+Passenger 179: 12, 20
+Passenger 58: 6, 12
+Passenger 148: 1, 6
+Seat 21:
+Passenger 203: 13, 20
+Passenger 289: 4, 13
+Passenger 186: 1, 4
+Seat 22:
+Passenger 286: 13, 20
+Passenger 293: 4, 13
+Passenger 281: 1, 4
+Seat 23:
+Passenger 88: 19, 20
+Passenger 113: 2, 19
+Seat 24:
+Passenger 141: 16, 20
+Passenger 90: 2, 16
+Seat 25:
+Passenger 201: 14, 20
+Passenger 35: 2, 14
+Seat 26:
+Passenger 212: 12, 20
+Passenger 279: 2, 12
+Seat 27:
+Passenger 144: 16, 20
+Passenger 7: 11, 16
+Passenger 62: 2, 11
+Seat 28:
+Passenger 173: 17, 20
+Passenger 16: 11, 17
+Passenger 168: 2, 11
+Seat 29:
+Passenger 174: 18, 20
+Passenger 158: 7, 18
+Passenger 78: 2, 7
+Seat 30:
+Passenger 231: 15, 20
+Passenger 6: 8, 15
+Passenger 73: 2, 8
+Seat 31:
+Passenger 282: 16, 20
+Passenger 175: 11, 16
+Passenger 252: 2, 11
+Seat 32:
+Passenger 180: 18, 20
+Passenger 259: 3, 18
+Seat 33:
+Passenger 235: 9, 20
+Passenger 18: 3, 9
+Seat 34:
+Passenger 95: 19, 20
+Passenger 26: 12, 19
+Passenger 8: 3, 12
+Seat 35:
+Passenger 97: 19, 20
+Passenger 45: 15, 19
+Passenger 199: 3, 15
+Seat 36:
+Passenger 121: 19, 20
+Passenger 47: 18, 19
+Passenger 272: 3, 18
+Seat 37:
+Passenger 124: 19, 20
+Passenger 65: 14, 19
+Passenger 167: 3, 14
+Seat 38:
+Passenger 126: 19, 20
+Passenger 96: 13, 19
+Passenger 110: 3, 13
+Seat 39:
+Passenger 170: 19, 20
+Passenger 133: 5, 19
+Passenger 200: 3, 5
+Seat 40:
+Passenger 187: 19, 20
+Passenger 247: 9, 19
+Passenger 59: 3, 9
+Seat 41:
+Passenger 202: 19, 20
+Passenger 287: 12, 19
+Passenger 75: 3, 12
+Seat 42:
+Passenger 290: 16, 20
+Passenger 94: 12, 16
+Passenger 89: 3, 12
+Seat 43:
+Passenger 233: 19, 20
+Passenger 21: 16, 19
+Passenger 208: 11, 16
+Passenger 219: 3, 11
+Seat 44:
+Passenger 264: 19, 20
+Passenger 24: 17, 19
+Passenger 237: 7, 17
+Passenger 256: 3, 7
+Seat 45:
+Passenger 276: 19, 20
+Passenger 77: 15, 19
+Passenger 250: 6, 15
+Passenger 184: 3, 6
+Seat 46:
+Passenger 278: 19, 20
+Passenger 164: 10, 19
+Passenger 277: 4, 10
+Seat 47:
+Passenger 48: 17, 19
+Passenger 210: 11, 17
+Passenger 87: 4, 11
+Seat 48:
+Passenger 115: 13, 19
+Passenger 43: 7, 13
+Passenger 196: 4, 7
+Seat 49:
+Passenger 139: 14, 19
+Passenger 13: 8, 14
+Passenger 260: 4, 8
+Seat 50:
+Passenger 49: 17, 19
+Passenger 4: 14, 17
+Passenger 60: 6, 14
+Passenger 209: 4, 6
+Seat 51:
+Passenger 69: 16, 19
+Passenger 76: 9, 16
+Passenger 263: 6, 9
+Passenger 294: 4, 6
+Seat 52:
+Passenger 101: 16, 19
+Passenger 1: 5, 16
+Seat 53:
+Passenger 125: 18, 19
+Passenger 154: 5, 18
+Seat 54:
+Passenger 151: 18, 19
+Passenger 215: 5, 18
+Seat 55:
+Passenger 171: 15, 19
+Passenger 119: 5, 15
+Seat 56:
+Passenger 122: 17, 19
+Passenger 99: 16, 17
+Passenger 255: 5, 16
+Seat 57:
+Passenger 128: 13, 19
+Passenger 5: 11, 13
+Passenger 19: 5, 11
+Seat 58:
+Passenger 216: 13, 19
+Passenger 51: 7, 13
+Passenger 33: 5, 7
+Seat 59:
+Passenger 224: 15, 19
+Passenger 155: 7, 15
+Passenger 284: 5, 7
+Seat 60:
+Passenger 227: 15, 19
+Passenger 198: 8, 15
+Passenger 27: 5, 8
+Seat 61:
+Passenger 232: 13, 19
+Passenger 129: 9, 13
+Passenger 36: 5, 9
+Seat 62:
+Passenger 285: 15, 19
+Passenger 296: 8, 15
+Passenger 71: 5, 8
+Seat 63:
+Passenger 123: 17, 19
+Passenger 61: 12, 17
+Passenger 108: 8, 12
+Passenger 117: 5, 8
+Seat 64:
+Passenger 134: 17, 19
+Passenger 207: 14, 17
+Passenger 140: 8, 14
+Passenger 177: 5, 8
+Seat 65:
+Passenger 143: 17, 19
+Passenger 251: 14, 17
+Passenger 152: 6, 14
+Passenger 114: 5, 6
+Seat 66:
+Passenger 146: 17, 19
+Passenger 268: 12, 17
+Passenger 213: 6, 12
+Passenger 188: 5, 6
+Seat 67:
+Passenger 222: 18, 19
+Passenger 182: 10, 18
+Passenger 46: 6, 10
+Passenger 195: 5, 6
+Seat 68:
+Passenger 226: 18, 19
+Passenger 300: 12, 18
+Passenger 220: 6, 12
+Seat 69:
+Passenger 297: 15, 19
+Passenger 159: 11, 15
+Passenger 31: 6, 11
+Seat 70:
+Passenger 166: 17, 19
+Passenger 66: 15, 17
+Passenger 266: 7, 15
+Passenger 104: 6, 7
+Seat 71:
+Passenger 239: 18, 19
+Passenger 22: 16, 18
+Passenger 211: 11, 16
+Passenger 38: 6, 11
+Seat 72:
+Passenger 23: 13, 18
+Passenger 79: 11, 13
+Passenger 262: 6, 11
+Seat 73:
+Passenger 42: 15, 18
+Passenger 193: 10, 15
+Passenger 178: 8, 10
+Passenger 41: 6, 8
+Seat 74:
+Passenger 267: 14, 18
+Passenger 91: 7, 14
+Seat 75:
+Passenger 283: 14, 18
+Passenger 116: 7, 14
+Seat 76:
+Passenger 55: 13, 18
+Passenger 34: 12, 13
+Passenger 156: 7, 12
+Seat 77:
+Passenger 56: 16, 18
+Passenger 157: 14, 16
+Passenger 249: 7, 14
+Seat 78:
+Passenger 102: 15, 18
+Passenger 10: 14, 15
+Passenger 273: 7, 14
+Seat 79:
+Passenger 120: 13, 18
+Passenger 105: 12, 13
+Passenger 223: 7, 12
+Seat 80:
+Passenger 189: 16, 18
+Passenger 271: 11, 16
+Passenger 28: 7, 11
+Seat 81:
+Passenger 181: 13, 18
+Passenger 149: 12, 13
+Passenger 161: 11, 12
+Passenger 185: 7, 11
+Seat 82:
+Passenger 218: 13, 18
+Passenger 217: 12, 13
+Passenger 288: 11, 12
+Passenger 225: 7, 11
+Seat 83:
+Passenger 240: 15, 18
+Passenger 81: 14, 15
+Passenger 86: 9, 14
+Passenger 258: 7, 9
+Seat 84:
+Passenger 270: 16, 18
+Passenger 162: 14, 16
+Passenger 53: 10, 14
+Passenger 291: 8, 10
+Passenger 98: 7, 8
+Seat 85:
+Passenger 9: 17, 18
+Passenger 132: 15, 17
+Passenger 112: 14, 15
+Passenger 298: 9, 14
+Seat 86:
+Passenger 54: 17, 18
+Passenger 221: 16, 17
+Passenger 243: 14, 16
+Passenger 17: 11, 14
+Passenger 2: 9, 11
+Seat 87:
+Passenger 190: 17, 18
+Passenger 257: 16, 17
+Passenger 254: 14, 16
+Passenger 63: 11, 14
+Passenger 118: 9, 11
+Seat 88:
+Passenger 192: 17, 18
+Passenger 206: 13, 17
+Passenger 248: 12, 13
+Passenger 238: 9, 11
+Seat 89:
+Passenger 194: 17, 18
+Passenger 229: 13, 17
+Passenger 183: 10, 12
+Seat 90:
+Passenger 214: 17, 18
+Passenger 292: 16, 17
+Passenger 197: 14, 15
+Passenger 137: 10, 14
+Seat 91:
+Passenger 280: 17, 18
+Passenger 261: 14, 15
+Passenger 205: 10, 14
+Seat 92:
+Passenger 299: 17, 18
+Passenger 275: 14, 15
+Passenger 244: 10, 14
+Seat 93:
+Passenger 253: 13, 17
+Seat 94:
+Passenger 169: 11, 14
+Seat 95:
+Passenger 85: 12, 15
+Seat 96:
+Passenger 100: 12, 15
+Seat 97:
+Passenger 204: 12, 15
+Seat 98:
+Passenger 228: 12, 15
+Seat 99:
+Passenger 14: 13, 16
+
+FORWARD-BACKWARD:
+Average: 1586.7827827827828
+
+ONLINE OFFLINE:
+Average: 1478.2182182182182
+
+ONLINE:
+Average: 1472.952952952953
+
+BRUTE FORCE
+Minimum: 0 - Nedre kvartil: 0 - Median: 0 - Øvre kvartil: 0 - Maksimum: 0
+DYNAMIC
+Minimum: 1443 - Nedre kvartil: 1561 - Median: 1591 - Øvre kvartil: 1616 - Maksimum: 1704
+FORWARD-BACKWARD
+Minimum: 1442 - Nedre kvartil: 1560 - Median: 1590 - Øvre kvartil: 1615 - Maksimum: 1699
+ONLINE OFFLINE
+Minimum: 1288 - Nedre kvartil: 1449 - Median: 1482 - Øvre kvartil: 1510 - Maksimum: 1632
+ONLINE
+Minimum: 1288 - Nedre kvartil: 1445 - Median: 1475 - Øvre kvartil: 1503 - Maksimum: 1618
